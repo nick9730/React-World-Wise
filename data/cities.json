@@ -1,0 +1,178 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "date": "2023-11-02T01:07:26.693Z",
+      "notes": "",
+      "position": {
+        "lat": "51.59158722849353",
+        "lng": "14.565859076590442"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "date": "2023-11-02T01:07:45.437Z",
+      "notes": "",
+      "position": {
+        "lat": "41.47680538574721",
+        "lng": "-5.318443800250058"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "sdaffds",
+      "country": "Greece",
+      "date": "2023-11-02T01:08:00.006Z",
+      "notes": "",
+      "position": {
+        "lat": "51.290618508521426",
+        "lng": "12.479083020500374"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "date": "2023-11-02T01:17:18.915Z",
+      "notes": "",
+      "position": {
+        "lat": "53.56641415275043",
+        "lng": "9.821777343750002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "date": "2023-11-02T01:17:29.539Z",
+      "notes": "",
+      "position": {
+        "lat": "56.31653672211301",
+        "lng": "30.585937500000004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "date": "2023-11-02T01:23:15.864Z",
+      "notes": "",
+      "position": {
+        "lat": "69.90011762668541",
+        "lng": "105.99609375000001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Vihti",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2023-11-02T01:32:04.026Z",
+      "notes": "",
+      "position": {
+        "lat": "60.34869562531865",
+        "lng": "24.565429687500004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Jyvaskyla",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2023-11-02T01:32:33.890Z",
+      "notes": "",
+      "position": {
+        "lat": "62.298581128718226",
+        "lng": "25.488281250000004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Kambja",
+      "country": "Estonia",
+      "emoji": "🇪🇪",
+      "date": "2023-11-02T01:33:16.795Z",
+      "notes": "",
+      "position": {
+        "lat": "58.321029869251966",
+        "lng": "26.740722656250004"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Kierspe",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-11-02T01:58:43.881Z",
+      "notes": "",
+      "position": {
+        "lat": "51.11041991029264",
+        "lng": "7.536621093750001"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Drama",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2023-11-02T01:59:02.155Z",
+      "notes": "",
+      "position": {
+        "lat": "41.21172151054787",
+        "lng": "24.125976562500004"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Kozani",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2023-11-02T02:03:05.313Z",
+      "notes": "",
+      "position": {
+        "lat": "40.3130432088809",
+        "lng": "21.928710937500004"
+      },
+      "id": 98443209
+    }
+  ]
+}

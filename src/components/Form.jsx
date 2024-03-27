@@ -9,10 +9,11 @@ import BackButton from "./BackButton";
 
 import styles from "./Form.module.css";
 import { useUrlPosition } from "../hooks/useUrlPosition";
-import Message from "../compomens/Message";
-import Spinner from "../compomens/Spinner";
+
+import Spinner from "./Spinner";
 import { useCities } from "../contexts/CitiesContexts"
 import { useNavigate } from "react-router-dom";
+import Message from "./Message";
 
 export function convertToEmoji(countryCode) {
   const codePoints = countryCode

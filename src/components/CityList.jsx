@@ -1,8 +1,8 @@
 
 import styles from './CityList.module.css'
-import Spinner from '../compomens/Spinner'
-import CityItem from '../compomens/CityItem'
-import Message from '../compomens/Message'
+import Spinner from './Spinner'
+import CityItem from './CityItem'
+import Message from './Message'
 import { useCities } from '../contexts/CitiesContexts'
 
 

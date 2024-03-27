@@ -15,20 +15,12 @@ import PageNotFound from './pages/PageNotFound.jsx';
 import  AppLayout from './pages/AppLayout.jsx';
 import Login from './pages/Login.jsx';
 
-import CityList from './compomens/CityList.jsx';
-import CountriesList from './compomens/CountriesList.jsx';
-import City from './compomens/City.jsx'
-import  Form  from './compomens/Form.jsx';
-import  SpinnerFullPage  from './compomens/SpinnerFullPage.jsx';
 
 
-
-// const Homepage = lazy(()=>import("./pages/Homepage.jsx"))
-// const Product = lazy(()=>import('./pages/Product.jsx'))
-// const Pricing = lazy(()=>import('./pages/Pricing.jsx'))
-// const PageNotFound = lazy(()=>import('./pages/PageNotFound.jsx'))
-// const AppLayout = lazy(()=>import('./pages/Homepage.jsx'))
-// const Login = lazy(()=>import('./pages/Login.jsx'))
+import CityList from './components/CityList.jsx';
+import CountriesList from './components/CountriesList.jsx';
+import City from './components/City.jsx';
+import Form from './components/Form.jsx';
 
 
 

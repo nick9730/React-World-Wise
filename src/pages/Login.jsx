@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import PageNav from "../compomens/PageNav";
+import PageNav from "../components/PageNav";
 import {  useAuth } from "../contexts/FakeLoginContexts";
 import styles from "./Login.module.css";
 import { useEffect, useState } from "react";

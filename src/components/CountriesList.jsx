@@ -1,7 +1,7 @@
 
-import Spinner from '../compomens/Spinner'
-import CountryItem from '../compomens/CountryItem'
-import Message from '../compomens/Message'
+import Spinner from './Spinner'
+import CountryItem from './CountryItem'
+import Message from './Message'
 import styles from './CountriesList.module.css'
 import { useCities } from '../contexts/CitiesContexts'
 

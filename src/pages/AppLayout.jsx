@@ -1,8 +1,8 @@
-import Sidebar from "../compomens/Sidebar"
+import Sidebar from "../components/Sidebar"
 import styles from './AppLayout.module.css'
-import Map from "../compomens/Map"
-import Button from "../compomens/Button"
-import User from "../compomens/User"
+import Map from "../components/Map"
+
+import User from "../components/User"
 
 export default function AppLayout() {
 
